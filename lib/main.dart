@@ -42,10 +42,10 @@ class _GradeCalculatorScreenState extends State<GradeCalculatorScreen> {
 
   // Lista de estudiantes para el Picker/Dropdown
   final List<String> _students = [
-    'Ana García',
-    'Luis Pérez',
-    'Sofía Torres',
-    'Carlos Ruiz',
+    'Gabriel Lascano',
+    'Bryan Castro',
+    'Gabriel Castro',
+    'Bryan Lascano',
     'Elena Morales',
   ];
   String? _selectedStudent;
